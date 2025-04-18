@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/scripts.iml" filepath="$PROJECT_DIR$/scripts.iml" />
       <module fileurl="file://$PROJECT_DIR$/wc-map.iml" filepath="$PROJECT_DIR$/wc-map.iml" />
       <module fileurl="file://$PROJECT_DIR$/../wc-map-frontend/wc-map-frontend.iml" filepath="$PROJECT_DIR$/../wc-map-frontend/wc-map-frontend.iml" />
     </modules>

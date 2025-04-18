@@ -99,6 +99,7 @@ services:
 
 networks:
   wc-map-net:
+    external: true
 
 volumes:
   postgres-data-development:
